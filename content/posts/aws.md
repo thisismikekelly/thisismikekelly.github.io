@@ -1,7 +1,6 @@
 +++
 title = 'AWS'
 date = 2024-03-03T14:06:04Z
-draft = true
 +++
 
 [Amazon Web Services (AWS)](https://aws.amazon.com/) has revolutionized the world of cloud computing, providing a robust and scalable platform for businesses, startups, and developers. With a vast array of services covering computing, storage, machine learning, and more, AWS empowers organizations to build, deploy, and scale applications with ease.

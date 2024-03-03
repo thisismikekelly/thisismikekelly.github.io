@@ -1,7 +1,6 @@
 +++
 title = 'Git Version Control Made Simple'
 date = 2024-03-03T14:04:16Z
-draft = true
 +++
 
 ## Introduction to Git

@@ -1,7 +1,6 @@
 +++
 title = 'What is Cloud Native'
 date = 2024-03-03T13:59:43Z
-draft = true
 +++
 
 

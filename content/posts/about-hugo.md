@@ -1,7 +1,6 @@
 +++
 title = 'About Hugo Static Site Generator'
 date = 2024-03-03T13:56:36Z
-draft = true
 +++
 
 [Hugo](https://gohugo.io/) is a popular open-source static site generator written in Go. It's designed to be fast, simple to use, and highly flexible, making it an excellent choice for building websites of various sizes and types.
